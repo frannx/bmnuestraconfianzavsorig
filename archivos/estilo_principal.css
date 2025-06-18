@@ -695,7 +695,6 @@
             left: -10%;
             width: 30%;
             height: 120%;
-            background: var(--gradient-secondary);
             opacity: 0.03;
             border-radius: 50%;
             z-index: -1;
